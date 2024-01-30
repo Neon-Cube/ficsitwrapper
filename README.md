@@ -1,6 +1,6 @@
 # Ficsit Wrapper
 
-A small wrapper for Satisfatory that fixes [the issue with 75%-99% upscaling resolution](https://www.reddit.com/r/SatisfactoryGame/comments/17dtvrv/u8_how_to_fix_crashing_in_start_not_obvious_bug/). **Only works on windows!**
+A small wrapper for Satisfatory that fixes [the issue with 50-99% upscaling resolution](https://www.reddit.com/r/SatisfactoryGame/comments/17dtvrv/u8_how_to_fix_crashing_in_start_not_obvious_bug/). **Only works on windows!**
 
 ## Installation
 1. Download `ficsitwrapper.exe` from releases and place it in your Satisfactory installation directory.
