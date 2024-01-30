@@ -3,8 +3,5 @@ name = "ficsitwrapper"
 version = "0.1.0"
 edition = "2021"
 
-[dependencies]
-steamworks = "0.10.0"
-
 [profile.release]
 strip = "debuginfo"
